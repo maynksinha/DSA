@@ -17,6 +17,7 @@ Start uploading my dsa problems here
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/maynksinha/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3838-weighted-word-mapping](https://github.com/maynksinha/DSA/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ Start uploading my dsa problems here
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -72,5 +74,6 @@ Start uploading my dsa problems here
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
