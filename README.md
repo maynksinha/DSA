@@ -25,6 +25,7 @@ Start uploading my dsa problems here
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/maynksinha/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,4 +77,8 @@ Start uploading my dsa problems here
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
