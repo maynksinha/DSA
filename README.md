@@ -7,6 +7,7 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/maynksinha/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maynksinha/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -27,6 +28,7 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/maynksinha/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -89,4 +91,8 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maynksinha/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
