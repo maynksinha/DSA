@@ -12,6 +12,7 @@ Start uploading my dsa problems here
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maynksinha/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/maynksinha/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -95,6 +96,7 @@ Start uploading my dsa problems here
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maynksinha/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -110,6 +112,7 @@ Start uploading my dsa problems here
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
