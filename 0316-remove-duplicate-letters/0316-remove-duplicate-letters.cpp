@@ -2,34 +2,47 @@ class Solution {
 public:
     string removeDuplicateLetters(string s) {
 
-        int visitedarr[26] = {0};
-        int lastindex[26];
+        vector<int> lastIndex(26);
+        vector<bool> visited(26, false);
 
-        for(int i = 0; i < s.length(); i++) {
-            lastindex[s[i] - 'a'] = i;
+        // Store last occurrence of every character
+        for (int i = 0; i < s.size(); i++) {
+            lastIndex[s[i] - 'a'] = i;
         }
 
-        string result = "";
+        stack<char> st;
 
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.size(); i++) {
 
-            int index = s[i] - 'a';
+            char ch = s[i];
 
-            if(visitedarr[index])
+            // Skip if already present
+            if (visited[ch - 'a'])
                 continue;
 
-            while(!result.empty() &&
-                  result.back() > s[i] &&
-                  lastindex[result.back() - 'a'] > i)
-            {
-                visitedarr[result.back() - 'a'] = 0;
-                result.pop_back();
+            // Remove larger characters if they appear again later
+            while (!st.empty() &&
+                   st.top() > ch &&
+                   lastIndex[st.top() - 'a'] > i) {
+
+                visited[st.top() - 'a'] = false;
+                st.pop();
             }
 
-            result.push_back(s[i]);
-            visitedarr[index] = 1;
+            st.push(ch);
+            visited[ch - 'a'] = true;
         }
 
-        return result;
+        // Build answer from stack
+        string ans = "";
+
+        while (!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
+
+        reverse(ans.begin(), ans.end());
+
+        return ans;
     }
 };
