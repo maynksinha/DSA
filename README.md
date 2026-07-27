@@ -11,6 +11,7 @@ Start uploading my dsa problems here
 | [1004-max-consecutive-ones-iii](https://github.com/maynksinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/maynksinha/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maynksinha/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ Start uploading my dsa problems here
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maynksinha/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@ Start uploading my dsa problems here
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/maynksinha/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/maynksinha/DSA/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
