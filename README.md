@@ -34,6 +34,7 @@ Start uploading my dsa problems here
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/maynksinha/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maynksinha/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maynksinha/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/maynksinha/DSA/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ Start uploading my dsa problems here
 | [1288-remove-covered-intervals](https://github.com/maynksinha/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -112,6 +114,7 @@ Start uploading my dsa problems here
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
