@@ -13,6 +13,7 @@ Start uploading my dsa problems here
 | [1004-max-consecutive-ones-iii](https://github.com/maynksinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/maynksinha/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maynksinha/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -46,6 +47,7 @@ Start uploading my dsa problems here
 | [0877-stone-game](https://github.com/maynksinha/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/maynksinha/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -125,6 +127,7 @@ Start uploading my dsa problems here
 | [0486-predict-the-winner](https://github.com/maynksinha/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maynksinha/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/maynksinha/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -170,4 +173,13 @@ Start uploading my dsa problems here
 | ------- |
 | [0486-predict-the-winner](https://github.com/maynksinha/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/maynksinha/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
