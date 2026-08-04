@@ -25,6 +25,7 @@ Start uploading my dsa problems here
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maynksinha/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/maynksinha/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/maynksinha/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -64,6 +65,7 @@ Start uploading my dsa problems here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maynksinha/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maynksinha/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/maynksinha/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Start uploading my dsa problems here
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/maynksinha/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
