@@ -38,6 +38,7 @@ Start uploading my dsa problems here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maynksinha/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/maynksinha/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maynksinha/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maynksinha/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -82,6 +83,7 @@ Start uploading my dsa problems here
 | [0316-remove-duplicate-letters](https://github.com/maynksinha/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maynksinha/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maynksinha/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -136,6 +138,7 @@ Start uploading my dsa problems here
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maynksinha/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maynksinha/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/maynksinha/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -156,6 +159,7 @@ Start uploading my dsa problems here
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maynksinha/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maynksinha/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -201,4 +205,8 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/maynksinha/DSA/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
