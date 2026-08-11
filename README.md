@@ -24,6 +24,7 @@ Start uploading my dsa problems here
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maynksinha/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/maynksinha/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maynksinha/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maynksinha/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -74,6 +75,7 @@ Start uploading my dsa problems here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maynksinha/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maynksinha/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maynksinha/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/maynksinha/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
@@ -125,6 +127,7 @@ Start uploading my dsa problems here
 | [1288-remove-covered-intervals](https://github.com/maynksinha/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maynksinha/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maynksinha/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maynksinha/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/maynksinha/DSA/tree/master/3731-find-missing-elements) |
