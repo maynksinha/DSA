@@ -22,6 +22,7 @@ Start uploading my dsa problems here
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maynksinha/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maynksinha/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maynksinha/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/maynksinha/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maynksinha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -41,6 +42,7 @@ Start uploading my dsa problems here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maynksinha/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/maynksinha/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maynksinha/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maynksinha/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/maynksinha/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maynksinha/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -99,6 +101,7 @@ Start uploading my dsa problems here
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maynksinha/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/maynksinha/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -239,4 +242,8 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/maynksinha/DSA/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/maynksinha/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
