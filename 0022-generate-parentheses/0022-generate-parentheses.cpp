@@ -1,28 +1,27 @@
 class Solution {
 public:
-      void valid(int n,vector<string>& ans,string s , int copen ,int cclose ){
-       
-        if(copen == n && cclose == n){
+    void validpar(int n, int open, int close,
+                  string s, vector<string>& ans) {
+
+        if (open == n && close == n) {
             ans.push_back(s);
             return;
         }
 
-        if(copen < n){
-            valid(n,ans,s+'(',copen+1,cclose);
-        }
-        if(cclose < copen){
-            valid(n,ans,s+')',copen,cclose+1);
+        if (open < n) {
+            validpar(n, open + 1, close, s + '(', ans);
         }
 
-
-      }
+        if (close < open) {
+            validpar(n, open, close + 1, s + ')', ans);
+        }
+    }
 
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        string s;
-        int copen = 0;
-        int cclose = 0;
-        valid(n,ans,s,copen,cclose);
+
+        validpar(n, 0, 0, "", ans);
+
         return ans;
     }
 };
