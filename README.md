@@ -39,6 +39,7 @@ Start uploading my dsa problems here
 | ------- |
 | [0022-generate-parentheses](https://github.com/maynksinha/DSA/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/maynksinha/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/maynksinha/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maynksinha/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maynksinha/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/maynksinha/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -125,6 +126,7 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/maynksinha/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/maynksinha/DSA/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/maynksinha/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maynksinha/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maynksinha/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -268,6 +270,7 @@ Start uploading my dsa problems here
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/maynksinha/DSA/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/maynksinha/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maynksinha/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maynksinha/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
