@@ -17,6 +17,7 @@ Start uploading my dsa problems here
 | [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maynksinha/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maynksinha/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/maynksinha/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/maynksinha/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maynksinha/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ Start uploading my dsa problems here
 | [1301-number-of-paths-with-max-score](https://github.com/maynksinha/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maynksinha/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maynksinha/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maynksinha/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/maynksinha/DSA/tree/master/3660-jump-game-ix) |
@@ -79,6 +81,7 @@ Start uploading my dsa problems here
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/maynksinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/maynksinha/DSA/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maynksinha/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/maynksinha/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maynksinha/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -173,6 +176,7 @@ Start uploading my dsa problems here
 | [1140-stone-game-ii](https://github.com/maynksinha/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maynksinha/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maynksinha/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maynksinha/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/maynksinha/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maynksinha/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/maynksinha/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
